@@ -1,6 +1,6 @@
-# Speedtest Analysis
+# Speedtest - Analise
 
-O programa **Speedtest Analysis** 
+O programa **Speedtest - Analise** 
 
 <!--  
 prepara a base de dados e gera gráficos e tabelas relevantes para visualização e análise de informações sobre mananciais de abastecimento público na Região Metropolitana de São Paulo, buscando obter insights visuais e analíticos.
@@ -8,7 +8,8 @@ prepara a base de dados e gera gráficos e tabelas relevantes para visualizaçã
 that performs dimensionality reduction on Starbucks nutrition data using PCA and visualizes the results in a 3D scatter plot. The code calculates the principal components, determines colors based on the axes values. It provides a concise representation of the nutritional characteristics of Starbucks products. 
 -->
 
-## Usage
+## Utilização
+
 <!-- 
 O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código em um compilador que foi "Executado como Administrador" (caso contrario ele não conseguirá baixar os arquivos) e selecione o servidor "Brazil (SP 2)" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
 
@@ -27,7 +28,7 @@ To use the program, first, download the scripts and the database and put them in
 ![ff](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/0339992b-d047-41ee-877f-2b4e27eaac16)
 ### Mapa do Brasil - IDH (2021):
 ![ee](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/a644e03e-9640-46df-b7dc-62e9b3aa20ed)
-### Correlação entre IDH e Velocidade de Download (2021):
+### Correlação entre IDH e Velocidade de Download:
 
 ### Correlação entre Velocidade de Upload e Download:
 
