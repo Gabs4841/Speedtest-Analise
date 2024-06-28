@@ -22,17 +22,24 @@ To use the program, first, download the scripts and the database and put them in
 
 ### Resumo Estatístico:
 ![resumo_estatistico](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/afe33e10-f4b9-4192-b00c-780ac0de623f)
+
 ### Boxspots:
 ![Boxplots](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/f5f2562f-1cee-4ec9-9b70-7eddded97f79)
+
 ### Mapa do Brasil - Velocidade de Download (2021):
 ![ff](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/0339992b-d047-41ee-877f-2b4e27eaac16)
+
 ### Mapa do Brasil - IDH (2021):
 ![ee](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/a644e03e-9640-46df-b7dc-62e9b3aa20ed)
+
 ### Correlação entre IDH e Velocidade de Download:
+![Correlacao_idh_velocidade](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/7f4814d6-13a6-49de-b1ef-72b4986d3948)
 
 ### Correlação entre Velocidade de Upload e Download:
+![correlacao_upload_download](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/c81b64e6-9ca5-4983-933a-f9dc75f2dc9a)
 
 ## Créditos e Citações
+
 Esse trabalho utiliza  
 
 Esse programa foi criado por [Gabriel Medina da Assunção](https://github.com/gabs4841) e [Jonatas Fernandes Andrade](https://github.com/JFA000).
