@@ -3,15 +3,15 @@
 
 //Em Construção//
 
-O programa **Speedtest - Analise** 
-
 <!--  
-prepara a base de dados e gera gráficos e tabelas relevantes para visualização e análise de informações sobre mananciais de abastecimento público na Região Metropolitana de São Paulo, buscando obter insights visuais e analíticos.
+O programa **Speedtest - Analise** prepara a base de dados e gera gráficos e tabelas relevantes para visualização e análise de informações sobre mananciais de abastecimento público na Região Metropolitana de São Paulo, buscando obter insights visuais e analíticos.
 
 that performs dimensionality reduction on Starbucks nutrition data using PCA and visualizes the results in a 3D scatter plot. The code calculates the principal components, determines colors based on the axes values. It provides a concise representation of the nutritional characteristics of Starbucks products. 
 -->
 
 ## Utilização
+
+Para facilitar a utilização, o repositório já conta com os arquivos baixados e modificados. No entanto, na pasta AWS, estão disponíveis os códigos utilizados para extrair a base de dados da AWS por meio do script Download_baseAWS.sh. É necessário ter o AWS CLI instalado em seu computador. O arquivo Modifica_nomeparquet.py renomeia automaticamente os arquivos baixados para o formato: Ano-Quartil.
 
 <!-- 
 O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código em um compilador que foi "Executado como Administrador" (caso contrario ele não conseguirá baixar os arquivos) e selecione o servidor "Brazil (SP 2)" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
