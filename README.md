@@ -1,17 +1,12 @@
 # Speedtest - Analise
 
-
-//Em Construção//
-
-<!--  
-O programa **Speedtest - Analise** prepara a base de dados e gera gráficos e tabelas relevantes para visualização e análise de informações sobre mananciais de abastecimento público na Região Metropolitana de São Paulo, buscando obter insights visuais e analíticos.
-
-that performs dimensionality reduction on Starbucks nutrition data using PCA and visualizes the results in a 3D scatter plot. The code calculates the principal components, determines colors based on the axes values. It provides a concise representation of the nutritional characteristics of Starbucks products. 
--->
+O repositório Speedtest - Análise prepara e visualiza dados das velocidades de download de internet no Brasil durante 2021. Utilizando gráficos e tabelas, comparamos essas velocidades com o Índice de Desenvolvimento Humano (IDH) do mesmo período. O objetivo é obter insights visuais e analíticos sobre como a qualidade da internet se relaciona com o desenvolvimento regional.
 
 ## Utilização
 
 Para facilitar a utilização, o seguinte <a href="https://drive.google.com/file/d/1taFnCSQX3_zY2mHjmmjFRSu4Jb9jkoo8/view?usp=sharing">Link</a> já contem o arquivo "2021-Q04.parquet". No entanto, na pasta AWS, estão disponíveis os códigos utilizados para extrair a base de dados da AWS por meio do script "Download_baseAWS.sh". É necessário ter o AWS CLI instalado em seu computador. O arquivo "Modifica_nomeparquet.py" renomeia automaticamente os arquivos baixados para o formato: Ano-Quartil.
+
+Após ter acesso ao arquivo por meio da pasta AWS ou pelo link fornecido, basta executar o código "Speedtest_Analysis.ipynb"...
 
 <!-- 
 O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código em um compilador que foi "Executado como Administrador" (caso contrario ele não conseguirá baixar os arquivos) e selecione o servidor "Brazil (SP 2)" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
