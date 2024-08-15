@@ -6,15 +6,7 @@ O programa Speedtest - Análise prepara e visualiza dados das velocidades de dow
 
 Para facilitar a utilização, o seguinte <a href="https://drive.google.com/file/d/1taFnCSQX3_zY2mHjmmjFRSu4Jb9jkoo8/view?usp=sharing">Link</a> já contem o arquivo "2021-Q04.parquet". No entanto, na pasta AWS, estão disponíveis os códigos utilizados para extrair a base de dados da AWS por meio do script "Download_baseAWS.sh". É necessário ter o AWS CLI instalado em seu computador. O arquivo "Modifica_nomeparquet.py" renomeia automaticamente os arquivos baixados para o formato: Ano-Quartil.
 
-Após ter acesso ao arquivo por meio da pasta AWS ou pelo link fornecido, basta executar o código "Speedtest_Analysis.ipynb"...
-
-<!-- 
-O programa possui duas partes principais: preparação do conjunto de dados e a geração de gráficos e tabelas. Para usar o programa, primeiro, faça o download do arquivo .ipynb. Em seguida, execute a primeira parte do código em um compilador que foi "Executado como Administrador" (caso contrario ele não conseguirá baixar os arquivos) e selecione o servidor "Brazil (SP 2)" para que a base atualizada seja baixada e modificada para manter apenas dados de 01/01/2013 em diante.
-
-To use the program, first, download the scripts and the database and put them in the same folder. Then, execute the python script.
-    
-    'python principal_component_analysis.py' 
--->
+Após ter acesso ao arquivo por meio da pasta AWS ou pelo link fornecido, basta executar o código "Speedtest_Analysis.ipynb"... **EM CONSTRUÇÃO**
 
 ## Images:
 
@@ -38,7 +30,7 @@ To use the program, first, download the scripts and the database and put them in
 
 ## Créditos e Citações
 
-Esse trabalho utiliza  
+Esse trabalho utiliza... 
 
 Esse programa foi criado por [Gabriel Medina da Assunção](https://github.com/gabs4841) e [Jonatas Fernandes Andrade](https://github.com/JFA000).
 
