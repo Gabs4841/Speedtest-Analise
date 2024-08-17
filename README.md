@@ -30,18 +30,9 @@ Após ter o acesso aos arquivos baixado e renomeados corretamente basta abrir o 
 ### Correlação entre Velocidade de Upload e Download:
 ![correlacao_upload_download](https://github.com/gabs4841/Speedtest-Analysis/assets/74026100/c81b64e6-9ca5-4983-933a-f9dc75f2dc9a)
 
-## Créditos e Citações
+## Créditos
+Este trabalho utiliza a base de dados "<a href="https://github.com/teamookla/ookla-open-data">ookla-open-data</a>" disponibilizados por Amazon e Ookla 
 
-Esse trabalho utiliza... **EM CONSTRUÇÃO**
+Também utiliza o "<a href="http://www.atlasbrasil.org.br/ranking">Ranking Todos Estados do Brasil em 2021</a>" , disponibilizados por Atlas Brasil
 
 Esse programa foi criado por [Gabriel Medina da Assunção](https://github.com/gabs4841) e [Jonatas Fernandes Andrade](https://github.com/JFA000).
-
-<!-- 
-[Starbucks Nutrition Facts](https://www.kaggle.com/datasets/utkarshx27/starbucks-nutrition) dataset, made available by Utkarsh Singh for the Advancement of Science and Art on Kaggle. Special thanks to Utkarsh Singh and the dataset creators for making this data available.
-
-Este trabalho utiliza o conjunto de dados do Pacote Mananciais, disponibilizado por:
-
-Beatriz Milz. (2020). beatrizmilz/mananciais: Mananciais 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.4319745. 
-
-Agradecimentos especiais a [Beatriz Milz](https://github.com/beatrizmilz) e a Sabesp por disponibilizarem esses dados.
- -->
