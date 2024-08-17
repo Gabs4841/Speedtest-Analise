@@ -4,11 +4,11 @@ O programa Speedtest - Análise prepara e visualiza dados das velocidades de dow
 
 ## Utilização
 
-O programa possui duas partes principais: preparação inicial do conjunto de dados e a filtragem e geração de gráficos e tabelas. 
+#### O programa possui duas partes principais: preparação inicial do conjunto de dados e a filtragem e geração de gráficos e tabelas. 
 
-#### Para facilitar a utilização, o seguinte <a href="https://drive.google.com/file/d/1taFnCSQX3_zY2mHjmmjFRSu4Jb9jkoo8/view?usp=sharing">Link</a> já contém o arquivo "2021-Q04.parquet". No entanto, na pasta AWS, estão disponíveis os códigos utilizados para extrair a base de dados da AWS por meio do script "Download_baseAWS.sh". É necessário ter o AWS CLI instalado em seu computador. O arquivo "Modifica_nomeparquet.py" renomeia automaticamente os arquivos baixados para o formato: Ano-Quartil.
+Para facilitar a utilização, o seguinte <a href="https://drive.google.com/file/d/1taFnCSQX3_zY2mHjmmjFRSu4Jb9jkoo8/view?usp=sharing">Link</a> já contém o arquivo "2021-Q04.parquet". No entanto, na pasta AWS, estão disponíveis os códigos utilizados para extrair a base de dados da AWS por meio do script "Download_baseAWS.sh". É necessário ter o AWS CLI instalado em seu computador. O arquivo "Modifica_nomeparquet.py" renomeia automaticamente os arquivos baixados para o formato: Ano-Quartil.
 
-#### Após ter o acesso aos arquivos baixados e renomeados corretamente basta abrir o arquivo "Mapas de calor.ipynb" ou "Speedtest_Analysis.ipynb", o primeiro realiza uma filtragem para gerar um mapa de calor do Brasil com o IDH de 2021 e outro de velocidade de download(mbps) do mesmo ano, o segundo arquivo gera os Boxplots e correlações alem de uma nova filtragem que será utilizada pelo arquivo "Resumo Estatístico.r". 
+Após ter o acesso aos arquivos baixados e renomeados corretamente basta abrir o arquivo "Mapas de calor.ipynb" ou "Speedtest_Analysis.ipynb", o primeiro realiza uma filtragem para gerar um mapa de calor do Brasil com o IDH de 2021 e outro de velocidade de download(mbps) do mesmo ano, o segundo arquivo gera os Boxplots e correlações alem de uma nova filtragem que será utilizada pelo arquivo "Resumo Estatístico.r". 
 
 ## Images:
 
