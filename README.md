@@ -33,6 +33,6 @@ Após ter o acesso aos arquivos baixado e renomeados corretamente basta abrir o 
 ## Créditos
 Este trabalho utiliza a base de dados "<a href="https://github.com/teamookla/ookla-open-data">ookla-open-data</a>" disponibilizados por Amazon e Ookla 
 
-Também utiliza o "<a href="http://www.atlasbrasil.org.br/ranking">Ranking Todos Estados do Brasil em 2021</a>" , disponibilizados por Atlas Brasil
+Também utiliza o "<a href="http://www.atlasbrasil.org.br/ranking">Ranking Todos Estados do Brasil em 2021</a>" disponibilizados por Atlas Brasil
 
 Esse programa foi criado por [Gabriel Medina da Assunção](https://github.com/gabs4841) e [Jonatas Fernandes Andrade](https://github.com/JFA000).
