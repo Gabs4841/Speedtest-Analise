@@ -1,6 +1,6 @@
 # Speedtest - Analise
 
-Prepara e visualiza dados das velocidades de download de internet no Brasil durante 2021. Utilizando gráficos e tabelas, comparamos essas velocidades com o Índice de Desenvolvimento Humano (IDH) do mesmo período. O objetivo é obter insights visuais e analíticos sobre como a qualidade da internet se relaciona com o desenvolvimento regional.
+Prepara e visualiza dados das velocidades de download de internet no Brasil durante 2021. Utilizando gráficos e tabelas, comparamos essas velocidades com o Índice de Desenvolvimento Humano (IDH) do mesmo período. O objetivo é analisar como a qualidade da internet se relaciona com o desenvolvimento regional.
 
 ## Utilização
 
